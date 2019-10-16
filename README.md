@@ -7,4 +7,4 @@ Dyskretyzacje:
 Rozwiązywanie algebraiczne układów równań liniowych:
   Dekompozycja LU macierzy pełnej
 
-Z tego co pamiętam był taki problem, że należało projekt zrobić żeby program poprawnie działał pomimo tego, że tylko 1 plik.
+Z tego co pamiętam był taki problem, że należało projekt w środowisku zrobić żeby program poprawnie działał pomimo tego, że tylko 1 plik.
