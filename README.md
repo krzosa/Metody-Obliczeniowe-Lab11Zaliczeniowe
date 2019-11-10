@@ -2,9 +2,13 @@
 Kod w c++ ze sprawozdaniem i wykresami.
 
 Dyskretyzacje:
+
   Klasyczna metoda Newtona
+  
   Metoda pośrednia Cranka-Nicolson
+  
 Rozwiązywanie algebraiczne układów równań liniowych:
+
   Dekompozycja LU macierzy pełnej
 
 Kompilując GNU GCC w CodeBlocks bez zrobienia projektu spotkałem się z problemem w którym program zwracał z jakiegoś
