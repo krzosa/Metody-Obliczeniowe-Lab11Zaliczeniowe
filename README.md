@@ -7,4 +7,5 @@ Dyskretyzacje:
 Rozwiązywanie algebraiczne układów równań liniowych:
   Dekompozycja LU macierzy pełnej
 
-Z tego co pamiętam był taki problem, że należało projekt w środowisku zrobić żeby program poprawnie działał pomimo tego, że tylko 1 plik.
+Kompilując GNU GCC w CodeBlocks bez zrobienia projektu spotkałem się z problemem w którym program zwracał z jakiegoś
+powodu złe wartości, po zrobieniu projektu problem zniknął tak samo jak wiele godzin z mojego życia.
